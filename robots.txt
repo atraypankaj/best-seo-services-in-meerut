@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary files if any exist
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Sitemap: https://atraypankaj.github.io/best-seo-services-in-meerut/sitemap.xml
